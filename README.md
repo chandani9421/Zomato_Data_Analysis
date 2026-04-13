@@ -1,4 +1,4 @@
-#  Zomato Data Analysis Project.....
+#  Zomato Data Analysis Project
 
 ## Project Overview
 This project focuses on analyzing Zomato restaurant data to extract meaningful insights about customer preferences, restaurant trends, and pricing patterns.
